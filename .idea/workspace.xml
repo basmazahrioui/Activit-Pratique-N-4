@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9ac957f-7eb2-451d-860d-521495ce12da" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/src/main/java/calcule/AlgerieCalculIGR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/src/main/java/calcule/CalculIGR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/src/main/java/calcule/MarocCalculIGR.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/src/main/java/employe/Employe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeDesignePattern/src/main/java/employe/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/Captures/Capture11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/Captures/Capture22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/ClientWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/BanqueService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/BanqueService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/BanqueWS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/BanqueWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/Compte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/Compte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/Covert.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/Covert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/CovertResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/CovertResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/GetCompte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/GetCompte.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/GetCompteResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/GetCompteResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/ListComptes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/ListComptes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/ListComptesResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/ListComptesResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/ObjectFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/ObjectFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/package-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Client/src/main/java/proxy/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/Captures/Capture1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/Captures/Capture2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/Captures/Capture3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/Captures/Capture4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/Captures/Capture5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/src/main/java/ServerJWS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/src/main/java/ws/BanqueService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Web-Service-Soap-Server/src/main/java/ws/Compte.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2bLkchK9GXSPh1b7UH7qcZfhzAx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/pc/OneDrive - ISGA/Bureau/YOUSSFI/a",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9ac957f-7eb2-451d-860d-521495ce12da" name="Changes" comment="" />
+      <created>1706001828566</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706001828566</updated>
+      <workItem from="1706001829688" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
